@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Елена Брыгина](https://up.htmlacademy.ru/htmlcss/34/user/2125995).
-* Наставник: Павел (эмодзи не нашла) Нюкало.(https://htmlacademy.ru/profile/nyukalopavel)
+* Наставник: [Павел  Нюкало.](https://htmlacademy.ru/profile/nyukalopavel) исправления
 
 ---
 
